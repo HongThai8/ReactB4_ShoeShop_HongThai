@@ -1,2 +1,2 @@
 # BTReactJS_Buoi4_Prop_ShoeShop
-Hong Thai - Bài tập REACTJS Buổi 4 Shoeshop
+Đoàn A Tỷ - Bài tập REACT JS Buổi 4 Shoeshop -Props
